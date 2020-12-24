@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "date-and-time": "^0.6.2",
+    "date-and-time": "^0.14.2",
     "native-base": "^2.7.2",
     "react": "16.4.1",
     "react-native": "0.56.0",
